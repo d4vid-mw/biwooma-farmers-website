@@ -1,0 +1,83 @@
+WEBSITE PROPOSAL AND COST ESTIMATE: BIWOOMA FARMERS LIMITED
+
+To: The Management, Biwooma Farmers Limited  
+From: Web Developer / Site Administrator  
+Date: June 29, 2026  
+Subject: Proposal and Cost Breakdown for Launching the Official Website (biwoomafarmers.com)
+
+========================================================================
+1. EXECUTIVE SUMMARY
+========================================================================
+As we discussed, Biwooma Farmers Limited needs an online platform to match its growing brand presence. We have successfully developed a premium, mobile-responsive prototype website. This site includes an interactive order estimator, WhatsApp booking system for farm tours, image gallery showcasing our Gayaza facilities, and official social media links.
+
+To make this website live under our own domain name (biwoomafarmers.com), I recommend hosting with Hostinger. It is the most reliable and cost-effective option for our business, providing domain registration, secure hosting, and business emails in one single package.
+
+Below is the complete breakdown of the setup costs, monthly maintenance, and web design fees.
+
+========================================================================
+2. TECHNICAL INFRASTRUCTURE COSTS (Paid to Hostinger)
+========================================================================
+By purchasing a 1-year Hostinger Premium plan, we get the hosting server, our custom domain name, and business email inboxes bundled together. 
+
+*All USD prices are converted at a standard rate of 1 USD = 3,750 UGX, including a small buffer for standard local bank card transaction fees.*
+
+- Premium Web Hosting Plan (Annual, Paid upfront): 140,000 UGX
+  (Web server hosting for the website files, guaranteeing 99.9% uptime)
+  
+- Domain Registration (Annual): FREE (Included in Year 1)
+  (Registration of the address biwoomafarmers.com)
+  
+- SSL Security Certificate (Lifetime): FREE (Included)
+  (Security padlock (HTTPS) to protect customer data)
+  
+- Custom Business Emails (Monthly): FREE (Included)
+  (Up up to 100 professional emails, e.g. info@biwoomafarmers.com)
+
+------------------------------------------------------------------------
+SUBTOTAL (Year 1 Setup Platform Cost): 140,000 UGX
+(Total amount required to launch the site online)
+------------------------------------------------------------------------
+
+*Domain Renewal (Year 2 onwards): ~55,000 UGX per year
+(Cost to renew the domain address in subsequent years)
+
+========================================================================
+3. WEB DESIGN AND MAINTENANCE FEES
+========================================================================
+These are my personal charges for designing, developing, and continuously maintaining the website's operations, updates, and catalogs.
+
+- Web Design Fee (One-off): 700,000 UGX
+  (Covers complete development of the responsive website, interactive price estimator, custom logo integration, location/contact panels, and testing across all mobile and desktop devices)
+
+- Website Maintenance & Administration: 200,000 UGX / month
+  (Covers monthly system management, uploading new pictures to our gallery, updating produce pricing (Matooke, Piglets, Eggs, Chicken), checking WhatsApp message API links, and technical backups)
+
+========================================================================
+4. TOTAL BUDGET SUMMARY (UGX)
+========================================================================
+To launch the website and run it for the first year, here is the cash flow summary:
+
+1. Initial Setup & Launch (Month 1 Payment):
+   - Hostinger Platform Setup (1 Year): 140,000 UGX
+   - Web Design Fee (One-off): 700,000 UGX
+   - First Month Maintenance: 200,000 UGX
+   ---------------------------------------------------------------------
+   TOTAL UPFRONT REQUIRED: 1,040,000 UGX
+   ---------------------------------------------------------------------
+
+2. Ongoing Monthly Cost (Starting Month 2):
+   - Monthly Maintenance Wage: 200,000 UGX / month
+
+3. Subsequent Annual Cost (Starting Year 2):
+   - Platform & Domain Renewal: ~195,000 UGX / year
+     (Hosting renewal + Domain renewal)
+
+========================================================================
+5. NEXT STEPS
+========================================================================
+Upon your approval:
+1. We will secure the domain biwoomafarmers.com immediately before someone else registers it.
+2. I will upload the completed site files to the server.
+3. We will set up the official email addresses (like info@biwoomafarmers.com) so we can begin using them on our business cards and social media.
+
+Please let me know if you have any questions or if you would like me to proceed with setting up the hosting account.
